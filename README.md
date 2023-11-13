@@ -1,6 +1,6 @@
 ## SonicAd
 
-Can't block your ads anymore? Just speed them up 16x!
+Can't block your ads anymore? Just speed them up 16x! <br>
 This should be a last resort, try [Brave](https://brave.com/) and updating [uBlock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) before using this.
 
 ## Installation
