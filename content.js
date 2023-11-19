@@ -4,7 +4,7 @@ function checkForAd() {
         adElement.playbackRate = 16;
     } else {
         const videoElement = document.querySelector(".video-stream");
-        if (videoElement) {
+        if (videoElement && videoElement.playbackRate === 16) {
             videoElement.playbackRate = 1;
         }
     }
